@@ -5,6 +5,6 @@ Template base com ESLint e Prettier prontos para usar em projetos JavaScript/Rea
 ## Como usar
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git nome-do-projeto
+git clone https://github.com/edimaiquemaciel/react-eslint-prettier-template.git
 cd nome-do-projeto
 npm install
